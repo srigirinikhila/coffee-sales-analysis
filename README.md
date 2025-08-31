@@ -46,7 +46,7 @@ Tools Used:
 
 🚀 How to Run
 # Clone the repository
-git clone https://github.com/your-username/coffee-sales-analytics.git
+git clone https://github.com/srigirinikhila/coffee-sales-analysis.git
 
 # Navigate to folder
 cd coffee-sales-analytics
